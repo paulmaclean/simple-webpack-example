@@ -1,0 +1,19 @@
+{
+  "name": "simple-webpack-example",
+  "version": "1.0.0",
+  "description": "A simple webpack example",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul MacLean",
+  "license": "MIT"
+}

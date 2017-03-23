@@ -17,7 +17,6 @@ module.exports = {
     filename: "[name].js"
   },
   cache: false,
-  devtool: 'source-map',
 
   resolve: {
     extensions: ['.webpack.js', '.web.js', '.js']

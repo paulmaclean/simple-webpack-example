@@ -2,3 +2,5 @@ node_modules
 dist
 docs
 .idea
+.history
+npm-debug.log
